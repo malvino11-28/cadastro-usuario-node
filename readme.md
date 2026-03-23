@@ -44,7 +44,7 @@ npm install
 4. Inicie o servidor:
 
 ```bash
-node node server.js
+node server.js
 ```
 
 A API estará rodando em: `http://localhost:3000`
